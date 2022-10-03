@@ -1,8 +1,9 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-background-color: #0e112e65;
+background-color: rgb(7, 3, 3);
 }
 h1{
+    color:white;
     text-align: center;
 }
 .main-container{
@@ -15,6 +16,12 @@ h1{
     gap: 10px;
     margin-bottom: 10px;
 }
+
+.white {
+    color:white;
+    font-size: 25px;
+}
+
 .square{
     width: 60px;
     height: 60px;
