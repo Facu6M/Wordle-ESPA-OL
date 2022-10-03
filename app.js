@@ -154,7 +154,7 @@ fetch('https://1000-most-common-words.p.rapidapi.com/words/spanish?words_limit=1
 
     function showResult(textMsg){
         resultElement.innerHTML = `
-        <p>${textMsg}</p>
+        <p class="white">${textMsg}</p>
         <button class="button">Reiniciar</button>`
 
         let resetBtn = document.querySelector('.button')
