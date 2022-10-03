@@ -16,12 +16,12 @@ h1{
     margin-bottom: 10px;
 }
 .square{
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     border: none;
     background-color: #787C7E;
     outline: none;
-    font-size: 50px;
+    font-size: 35px;
     text-transform: uppercase;
     color: #fff;
     text-align: center;
